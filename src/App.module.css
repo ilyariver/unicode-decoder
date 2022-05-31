@@ -1,0 +1,130 @@
+.header {
+    background-color: white;
+    padding: 20px 0;
+    border-bottom: 1px solid #cccccc;
+}
+
+.main {
+    padding: 30px 0;
+    height: 100%;
+}
+
+.logo__wrap {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.title {
+    margin: 0;
+    font-family: "Rubik Puddles";
+    background: rgb(255,138,248);
+    background: linear-gradient(90deg, rgba(255,138,248,0.8548012955182073) 0%, rgb(85 121 0 / 79%) 45%, rgba(0,212,255,0.7959777661064426) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #0B2349;
+}
+
+.form__group {
+    width: 50%;
+    height: 100%;
+    border-radius: 20%;
+}
+
+.left__area {
+    position: relative;
+}
+
+.right__area {
+    position: relative;
+}
+
+.right__area img {
+    width: 35px;
+}
+
+.textarea_answer {
+    display: block;
+    border: none;
+    resize: none;
+    height: 300px;
+    width: 100%;
+    background-color: transparent;
+    outline: none;
+    padding: 10px 60px 20px 20px;
+}
+
+.form__group:first-child .textarea_answer {
+    border-right: 1px solid #cccccc;
+}
+
+.form {
+    display: flex;
+    margin: 0 auto;
+    width: 800px;
+    box-shadow: 0 9px 25px -11px #00000057;
+    border-radius: 20px;
+    background-color: white;
+    font-family: Montserrat;
+}
+
+.success {
+    width: 250px;
+    position: fixed;
+    bottom: 20px;
+    right: 80px;
+    font-weight: 700;
+    font-family: Montserrat;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.copied__button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: none;
+    transition: opacity .2s;
+}
+
+.close {
+    background-color: #e8e8e8;
+}
+
+.copied__button:hover {
+    opacity: 0.8;
+}
+
+.success__opacyti {
+    opacity: 0;
+}
+
+.name__textarea {
+    margin: 0;
+    padding: 10px 15px;
+    border-bottom: 1px solid #cccccc;
+    font-size: 20px;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.close img {
+    width: 25px;
+}
+
