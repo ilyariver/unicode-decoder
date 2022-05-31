@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/unicode-decoder/static/css/main.1e1761e0.css",
+    "main.js": "/unicode-decoder/static/js/main.c0222266.js",
+    "static/js/787.28cb0dcd.chunk.js": "/unicode-decoder/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/unicode-decoder/static/media/logo.7d586cc6cc68c16c04be566bbbe736ab.svg",
+    "static/media/copy-svgrepo-com.svg": "/unicode-decoder/static/media/copy-svgrepo-com.33e0481a12545905db090c126dc56105.svg",
+    "index.html": "/unicode-decoder/index.html",
+    "static/media/close.svg": "/unicode-decoder/static/media/close.7a6813de3407ba491e228bf9badc1c0b.svg",
+    "main.1e1761e0.css.map": "/unicode-decoder/static/css/main.1e1761e0.css.map",
+    "main.c0222266.js.map": "/unicode-decoder/static/js/main.c0222266.js.map",
+    "787.28cb0dcd.chunk.js.map": "/unicode-decoder/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1761e0.css",
+    "static/js/main.c0222266.js"
+  ]
+}
