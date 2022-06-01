@@ -16,7 +16,7 @@
 ### `npm run build`
 ### `npm run deploy`
 
-Посмотреть приложение: https://ilyariver.github.io/unicode-decoder/
+Посмотреть приложение: <a href="https://ilyariver.github.io/unicode-decoder/" target="_blank">Unicode decoder</a>
 
 В окне "Текст" вставьте текст и он будет преобразован в UNICODE. \
 Кнопка "копировать" или клик по правому окну декодера скопирует полученный код.
